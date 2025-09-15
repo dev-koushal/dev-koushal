@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 BTech CSE '27 | DSA & Full-Stack Web Dev<br>💻 Currently learning Backend and solving DSA problems<br>🔧 Building real-world projects | Exploring open source<br>📫 Let's connect: []
+🚀 BTech CSE '27 | DSA & Full-Stack Web Dev<br>💻 Currently Beating AI brain Rots<br>🔧 Building real-world projects | Exploring open source<br>📫 Let's connect: []
 
 
 # 💻 Tech Stack:
